@@ -7,3 +7,6 @@
 [submodule "3rdparty/bgfx/bimg"]
 	path = 3rdparty/bgfx/bimg
 	url = git@github.com:bkaradzic/bimg.git
+[submodule "3rdparty/glm/glm"]
+	path = 3rdparty/glm/glm
+	url = git@github.com:g-truc/glm.git
