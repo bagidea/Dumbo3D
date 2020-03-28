@@ -10,3 +10,6 @@
 [submodule "3rdparty/glm/glm"]
 	path = 3rdparty/glm/glm
 	url = git@github.com:g-truc/glm.git
+[submodule "3rdparty/sdl/sdl-mirror"]
+	path = 3rdparty/sdl/sdl-mirror
+	url = git@github.com:bagidea/SDL-mirror.git
